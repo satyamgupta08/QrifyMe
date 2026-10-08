@@ -164,7 +164,7 @@ npm run dev
 
 ## Contact
 
-**Author**: Parth Bandwal  
-**Email**: [parthbandwal18@gmail.com](mailto:parthbandwal18@gmail.com)  
-**Project Link**: [QrifyMe on GitHub](https://github.com/parrth20/QrifyMe)
+**Author**: Satyam Gupta  
+**Email**: [satyamgupta0812@gmail.com](mailto:satyamgupta0812@gmail.com)  
+**Project Link**: [QrifyMe on GitHub](https://github.com/satyamgupta08/QrifyMe)
 
